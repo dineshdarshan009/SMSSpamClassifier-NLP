@@ -5,7 +5,7 @@ Dataset: https://archive.ics.uci.edu/ml/datasets/SMS+Spam+Collection
 
 The files contain one message per line. Each line is composed by two columns: one with label (ham or spam) and other with the raw text. Here are some examples:
 
-ham   What you doing?how are you?
+ham   What you doing?how are you?<br/>
 ham   Ok lar... Joking wif u oni...
 ham   dun say so early hor... U c already then say...
 ham   MY NO. IN LUTON 0125698789 RING ME IF UR AROUND! H*
